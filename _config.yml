@@ -1,9 +1,9 @@
 # Site settings
-title: SUNW Blog
+title: Sunw Blog
 SEOTitle: 孙伟的博客 | sunw Blog
 header-img: img/post-bg-desk.jpg
 email: 610667093@qq.com
-description: "天下事有难易乎？为之，则难者亦易矣；不为，则易者亦难矣。"
+description: "天下事有难易乎！"
 keyword: "sunw, sunw Blog, 孙伟的博客, sunwwwt, ffmpeg, gstreamer, 音视频"
 url: "https://sunwwwt.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
