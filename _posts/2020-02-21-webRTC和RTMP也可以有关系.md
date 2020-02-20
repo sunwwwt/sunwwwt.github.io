@@ -16,7 +16,7 @@ tags:
 - 本文基于gstreamer开源库
 - 进行RTMP流转RTP流，送到webRTC播放
 - webRTC视频会议发送过来的RTP流，转会为RTMP流，可以推送到直播服务器
-- 支持opus<->AAC, h264, vp8 
+- 支持opus , AAC, h264, vp8 
 --- 
 ## RTMP->webRTC
 
